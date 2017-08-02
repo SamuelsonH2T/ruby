@@ -63,3 +63,4 @@ franquia.adiciona restaurante_um
 franquia.adiciona restaurante_dois
 
 franquia.mostra
+puts "tudo feito"
